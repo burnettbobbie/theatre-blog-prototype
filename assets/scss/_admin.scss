@@ -1,0 +1,92 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+
+/* Remove border and outline around input. Set width to take up the entire width of parent and set margin on bottom */
+
+#searchInput {
+  border: none;
+  outline: none;
+  width: 100%;
+  margin-bottom: 20px;
+}
+.dataTables_filter input { 
+  height: 40px; 
+  width:200px;
+  border-radius: 10px; 
+  border: 1px solid;
+  padding: 10px;
+  &:hover{
+    background: #f6de589f;
+  }
+  &:focus{
+    background: #f6de58;
+  }
+}
+
+.dataTables_length{
+  display: none;
+}
+
+.dataTables_paginate{
+
+  display: none;
+
+}
+  .sorting{
+    font-weight: 400;
+    font-family: 'Quicksand', sans-serif;
+  }
+
+  .sorting_asc{
+    font-weight: 400;
+    font-family: 'Quicksand', sans-serif;
+  }
+  
+
+
+
+#Capa_1{
+  margin-left: 5vw;
+}
+.example{
+  border: solid black 2px !important;
+}
+
+/* When input gains focus, add a blue border below it */
+
+#searchInput:focus {
+  border-bottom: 2px solid #4575b6;
+}
+#delete_modal{
+  display: none;
+}
+.delete-show{
+  display: flex !important;
+}
+.blog-content{
+  overflow: hidden;
+  max-height: 8rem;
+  -webkit-box-orient: vertical;
+  display: block;
+  display: -webkit-box;
+  text-overflow: ellipsis;
+  -webkit-line-clamp: 4;
+}
+pre{
+  display: block;
+    font-family: inherit !important;
+    white-space: pre-line;
+    margin: 1em 0;
+}
+.lg\:w-2\/5 {
+  width: 100%;
+}
+.blog-mob{
+  flex-direction: column;
+}
+@media (min-width: 1024px){
+  .lg\:w-2\/5 {
+      width: 40%;
+  }
+}
+

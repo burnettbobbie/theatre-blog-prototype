@@ -1,0 +1,35 @@
+This project was built during the undertaking of an educational course.
+
+
+- Font Title: Quicksand
+- Font Author: Copyright 2019 The Quicksand Project Authors (https://github.com/andrew-paglinawan/QuicksandFamily.git), with Reserved Font Name "Quicksand"
+- Font Source: http://fonts.gstatic.com/s/quicksand/v30/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkBgv18G0wx40QDw.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
+
+IMAGES
+
+'Hedda Gabler':
+-Title: Hedda Gabler
+-Author: The Wall Street Journal
+-Source:  "https://s.wsj.net/public/resources/images/EW-AI328_Top_pi_G_20100318111959.jpg"
+
+
+'Waiting for Godot--
+-Title: Waiting for Godot
+-Author: London classic Theatre
+-Source: "http://londonclassictheatre.co.uk/2016/01/03/waiting-for-godot/"
+
+'Noises Off!'--
+-Title: Noises Off! Review
+-Author: FabUk Magazine
+-Source: "https://fabukmagazine.com/noises-off-review/"
+
+'Othello'--
+-Title: Othello Production images, 2015
+-Author: Keith Pattison @RSC
+-Source: "https://images.rsc.org.uk/action/browseItems?categoryTypeId=1&categoryId=1964&cachedCriteria=1"
+
+'Woyzeck'--
+-Title: Steffan Rhodri as the Captain and John Boyega as Woyzeck.
+-Author: Manual Harlan
+-Source: "https://www.theguardian.com/stage/2017/may/24/woyzeck-review-john-boyega-jack-thorne-georg-buchner-old-vic-london"

@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+
+.blog-article{
+    padding: 30px;
+}
+
+.comments{
+    padding: 20px;
+    .comments-title{
+        padding: 20px;
+        font-family: 'Quicksand', sans-serif;
+    }
+
+        .blog-comment{
+            margin-left: 10px;
+            padding-top: 30px;
+            .comment-heading{
+                padding-top: -30px;
+            }
+            .comment-text{
+                font-size: 1em;
+                padding: 10px;
+                font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            }
+        
+        }
+}

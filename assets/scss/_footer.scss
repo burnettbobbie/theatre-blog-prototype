@@ -1,0 +1,41 @@
+.sign-up{
+    font-size: 0.7em;
+}
+.newsletter-btn{
+    font-weight: 400;
+    border-radius: 5px;
+    &:hover{
+        box-shadow: 0 20px 50px rgba(25, 0, 255, 0.7);
+    }
+    &:active{
+        transform: scale(0.9);
+    }
+}
+
+// section{
+//     position: relative;
+//     bottom: 0;
+// }
+
+.footer-nav{
+    color: white;
+    position: absolute;
+    right: 0;
+    background-color: black;
+    padding-right: 20px;
+    // width: 100vw;
+    // padding: 30px;
+}
+
+@media screen and (max-width: 500px){
+    .footer-nav{
+        color: white;
+        position: relative;
+        background-color: black;
+        padding-right: 20px;
+        // width: 100vw;
+        // padding: 30px;
+    }
+    
+    
+}

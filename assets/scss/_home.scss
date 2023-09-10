@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+
+.home-banner{
+ 
+    .logo{
+        font-size: 0.8em;
+    }
+    .online{
+        font-size: 1.7em;
+        font-weight: 900;
+        letter-spacing: 0.1em;
+        font-family:'Kanit', sans-serif;
+    }
+    .whats-on{
+        font-weight: 400;
+        border-radius: 5px;
+        &:hover{
+            box-shadow: 0 20px 50px rgba(25, 0, 255, 0.7);
+        }
+        &:active{
+            transform: scale(0.9);
+        }
+    }
+}
+.blog-card{
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+    &:hover{
+        background-color: rgb(233, 232, 232);
+    }
+.blog-button{
+    // border: 1px grey solid;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 5px;
+    font-family: 'Quicksand', sans-serif;
+    // width: fit-content;
+    font-weight: 500;
+    color: black;
+    background-color: white;
+   
+    &:hover{
+        background-color:  white;
+        box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+    }
+
+    &:focus{
+        transform: scale(0.95);
+        box-shadow: none;
+     
+    }
+}
+
+.blog-content{
+    text-overflow: ellipsis;
+}
+}
