@@ -39,8 +39,9 @@
     <link rel="icon" type="image/png" sizes="16x16" href="<?= ROOT_DIR ?>assets/images/favicon-16x16.png">
     <link rel="manifest" href="<?= ROOT_DIR ?>assets/images/site.webmanifest">
 
-        <script src="https://cdn.tailwindcss.com"></script>
-        <link rel="stylesheet" href="<?= ROOT_DIR ?>assets/scss/app.css">
+        <!-- <script src="https://cdn.tailwindcss.com"></script> -->
+        <link rel="stylesheet" href="<?= ROOT_DIR ?>public/css/app.css">
+
 
     </head>
 <body class="bg-gradient-to-bl from-blue-50 via-white to-yellow-50">
