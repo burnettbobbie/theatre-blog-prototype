@@ -4,8 +4,8 @@
     // error_reporting(E_ALL);
 
     // for use in development
-    define('ROOT_DIR', 'http://localhost/theatre-project/');
-    define('AUTH_DIR', 'http://localhost/theatre-project/account/dashboard/');
+    define('ROOT_DIR', 'http://localhost/theatre-blog-prototype/');
+    define('AUTH_DIR', 'http://localhost/theatre-blog-prototype/account/dashboard/');
 
     //scala hosting route
     // define('ROOT_DIR', 'https://rburnett.student-hosting.college/theatre-project/');
